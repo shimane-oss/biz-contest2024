@@ -1,0 +1,176 @@
+@charset "UTF-8";
+/* 最終審査会 */
+
+body.award h1{
+	font-size: 140%;
+	color: #FFC20E;
+}
+body.award h2{
+	font-size: 120%;
+	color: #FFC20E;
+}
+
+body.award a.pdf{
+	padding-bottom: 5px;
+	padding-left: 20px;
+	background: url("/biz-contest2024/common/images/icon_pdf.gif") no-repeat 0 0;
+}
+
+body.award p.summary{
+	margin-bottom: 10px;
+	font-size: 110%;
+}
+
+body.award p.summary em{
+	color: #0E4BFF;
+}
+
+body.award p.agenda{
+	margin-top: 0.75em;
+	margin-bottom: 20px;
+}
+
+body.award div.doc dl.compact{
+	margin-top: 20px;
+	border-top: solid 3px #ccc;
+	border-bottom: solid 3px #ccc;
+}
+
+body.award div.doc dl.compact dt,
+body.award div.doc dl.compact dd,
+body.award div.doc dl.compact li{
+	line-height: 1.5;
+}
+
+body.award div.doc dl.compact dt,
+body.award div.doc dl.compact dd{
+	padding: 0.5em 0;
+	border-top: solid 1px #ccc;
+}
+
+body.award div.doc dl.compact dt{
+	width: 7em;
+	padding-left: 1em;
+	font-weight: bold;
+}
+
+body.award div.doc dl.compact dt.first,
+body.award div.doc dl.compact dd.first{
+	border-top: none;
+}
+
+body.award div.doc dl.compact dd{
+	_margin-left: 6em;
+}
+
+body.award div.doc dl.compact dd em{
+	color: #0E4BFF;
+}
+
+body.award div.doc dl.compact ul{
+	margin-bottom: -0.5em;
+}
+
+body.award div.doc dl.compact ul.list{
+	margin-bottom: 1px;
+}
+
+body.award div.doc dl.compact ul.list li{
+	margin-bottom: 0;
+}
+
+body.award div.result{
+	overflow: hidden;
+}
+
+body.award div.result div.section{
+	margin-bottom: 0;
+}
+
+body.award div.result div.section.business{
+	float: left;
+}
+
+body.award div.result div.section.student{
+	float: right;
+}
+
+body.award div.result h2{
+	font-size: 120%;
+	color: #FFC20E;
+}
+
+body.award div.result div.section h3{
+	margin-bottom: 15px;
+	padding: 3px 8px;
+	background: #FFC20E;
+	font-weight: normal;
+	color: #fff;
+	font-size: 100%;
+}
+
+body.award div.result div.section dl{
+	margin-bottom: 15px;
+}
+
+body.award div.result div.section dt{
+	margin-bottom: 3px;
+	padding-left: 15px;
+	background: url("/biz-contest2024/common/images/icon_asterisk.gif") no-repeat 0 0.25em;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+body.award div.result div.section dd{
+	margin-bottom: 12px;
+	padding-left: 15px;
+	padding-bottom: 10px;
+	border-bottom: dotted 2px #ccc;
+	line-height: 1.3;
+}
+
+body.award div.result div.section dd.last{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom: none;
+}
+
+body.award div.result p.more{
+	clear: both;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	line-height: 1.4;
+	border-top: solid 1px #ccc;
+}
+
+body.award div.picsline{
+	width: 594px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+body.award div.picsline div.pic{
+	width: 222px;
+	float: left;
+	margin-right: 12px;
+}
+body.award div.pic img{
+	display: block;
+	margin-bottom: 5px;
+}
+body.award div.pic span.caption{
+	display: block;
+	line-height: 1.3;
+	text-align: center;
+	font-size: 80%;
+	color: #777;
+}
+body.award div.pic a:link img{
+	border: solid 2px #FFC20E;
+}
+body.award div.pic a:visited img{
+	border: solid 2px #93a0b0;
+}
+body.award div.pic a:hover img,
+body.award div.pic a:hover active{
+	border: solid 2px #0E4BFF;
+}

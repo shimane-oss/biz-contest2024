@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.shimane-oss.org/biz-contest2024/sitemap.xml

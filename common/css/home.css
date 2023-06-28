@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* ホーム */
+
+body.home{
+	padding-top: 15px;
+}
+
+body.home h1.logo{
+	width: 88%;
+	margin-bottom: 15px;
+}
+
+@media screen and (min-width: 868px) {
+	body.home h1.logo{
+		margin-bottom: 15px;
+		width: 100%;
+	}
+}
+
+
+body.home div.mainpic{
+	margin-bottom: 20px;
+}
+
+p.sns{
+	margin-bottom: 10px;
+}
+
+p span.fb_share_size_Small{
+	display: block;
+}
+
+body.home div.change{
+	margin-bottom: 20px;
+	padding: 15px 15px 12px;
+	border: solid 2px #cdd2d8;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+body.home div.change h2{
+	font-size: 115%;
+	font-weight: bold;
+	color: #FFC20E;
+}
+
+body.home div.change h2 em{
+	line-height: 1.1;
+	font-size: 120%;
+	color: #FFC20E;
+}
+
+body.home div.change h2 span.note{
+	font-weight: normal;
+	font-size: 75%;
+	color: #444;
+}
+
+body.home div.change li{
+	margin-bottom: 0.3em;
+	background-position: 0 0.3em;
+	line-height: 1.5;
+}
+
+body.home div.change p{
+	margin-bottom: 0.5em;
+}
+
+body.home div.pic.lecturer{
+	width: 300px;
+	float: none;
+	margin: 0 auto 10px auto;
+	text-align: center;
+}
+
+body.home div.pic.lecturer img{
+	border: solid 2px #FFC20E;
+}
+
+body.home div.deadline{
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+body.home h2.subtitle{
+	font-size: 115%;
+	font-weight: bold;
+	color: #0E4BFF;
+}

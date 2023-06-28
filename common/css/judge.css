@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* 審査方法 */
+
+body.judge div.doc dl.compact{
+	margin-top: 0.75em;
+	margin-bottom: 25px;
+	border-bottom: solid 3px #ccc;
+}
+
+body.judge div.doc dl.compact dt,
+body.judge div.doc dl.compact dd{
+	padding: 0.5em 0;
+	border-top: solid 1px #ccc;
+}
+
+body.judge div.doc dl.compact dt.first,
+body.judge div.doc dl.compact dd.first{
+	border-top: solid 3px #ccc;
+}
+
+body.judge div.doc dl.compact dt{
+	width: 12em;
+	clear: both;
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+body.judge div.doc ul{
+	margin-bottom: 10px;
+	margin-left: 2px;
+}
+
+body.judge div.doc li{
+	margin: 0;
+	padding-bottom: 0;
+	border: none;
+}
+
+body.judge div.committee{
+	margin-bottom: 0;
+}
+body.judge div.committee h2 img{
+	vertical-align: middle;
+	margin-bottom: 2px;
+}
+body.judge div.committee h2{
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #FFC20E;
+}
+
+body.judge ul.note li{
+	background: none;
+	margin: 0 0 0.3em 1em;
+	padding-left: 0;
+	line-height: 1.6;
+	text-indent: -1em;
+	font-size: 85%;
+}

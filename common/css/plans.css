@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* 受賞プラン */
+
+body.plans h1{
+	font-size: 150%;
+	color: #FFC20E;
+}
+
+body.plans th,td{}
+
+body.plans .nowrap {
+  white-space: nowrap;
+}
+
+body.plans th.planner{
+	white-space: normal;
+}
+
+body.plans td.plan_name{
+	white-space: normal;
+	width: 11rem;
+}
