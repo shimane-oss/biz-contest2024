@@ -34,12 +34,12 @@ th{
 
 a{
 	text-decoration: underline;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 
 a:hover{
 	text-decoration: none;
-	color: #0E4BFF;
+	color: #A2342A;
 }
 
 a img{
@@ -65,7 +65,7 @@ p.logo{
 	padding-top: 10px;
 	padding-left: 20px;
 	/* background: url("/biz-contest2024/common/images/bg_header.gif") no-repeat 0 0; */
-	background-color: #FFC20E;
+	background-color: #2A98A2;
 	border-radius: 0rem 0rem 1rem 1rem;
 }
 
@@ -143,7 +143,7 @@ div.doc dl.compact dd{
 
 div.doc em{
 	font-weight: bold;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 
 /* main > doc > deadline */
@@ -157,7 +157,7 @@ div.doc div.deadline p{
 
 div.doc div.deadline em{
 	font-size: 120%;
-	color: #0E4BFF;
+	color: #A2342A;
 }
 
 div.doc div.deadline dt{
@@ -172,7 +172,7 @@ div.doc div.info{
 div.doc div.info h2{
 	margin-bottom: 5px;
 	font-size: 110%;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 
 div.doc div.info p{
@@ -191,7 +191,7 @@ ul.menu {
   	width: 150px !important;
   	float: left;
   	padding-bottom: 5px;
-  	background: #FFC20E url("/biz-contest2024/common/images/bg_menu_bottom.gif") no-repeat left bottom;
+  	background: #2A98A2 url("/biz-contest2024/common/images/bg_menu_bottom.gif") no-repeat left bottom;
   	list-style: none;
   	color: #fff;
   }
@@ -225,8 +225,8 @@ div.footer p.pagetop{
 	margin-bottom: 20px;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
-	border-top: solid 3px #FFC20E;
-	border-bottom: solid 1px #FFC20E;
+	border-top: solid 3px #2A98A2;
+	border-bottom: solid 1px #2A98A2;
 }
 
 div.footer p.pagetop{

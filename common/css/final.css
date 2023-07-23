@@ -3,11 +3,11 @@
 
 body.final h1{
 	font-size: 140%;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 body.final h2{
 	font-size: 120%;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 
 body.final div.result{
@@ -32,7 +32,7 @@ body.final div.result div.section.student{
 body.final div.result div.section h3{
 	margin-bottom: 15px;
 	padding: 3px 8px;
-	background: #FFC20E;
+	background: #2A98A2;
 	font-weight: normal;
 	color: #fff;
 	font-size: 100%;
@@ -40,7 +40,7 @@ body.final div.result div.section h3{
 
 body.final div.result div.section h4{
 	margin-bottom: 5px;
-	color: #FFC20E;
+	color: #2A98A2;
 	font-size: 100%;
 }
 
@@ -113,7 +113,7 @@ body.final div.pic.mainimage{
 	text-align: center;
 }
 body.final div.pic a:link img{
-	border: solid 2px #FFC20E;
+	border: solid 2px #2A98A2;
 }
 body.final div.pic a:visited img{
 	border: solid 2px #93a0b0;
@@ -131,7 +131,7 @@ body.final div.spprize{
 body.final div.spprize h3{
 	margin-bottom: 10px;
 	font-size: 110%;
-	color: #FFC20E;
+	color: #2A98A2;
 }
 body.final div.spprize div.picsline{
 	margin: 15px auto 0;
